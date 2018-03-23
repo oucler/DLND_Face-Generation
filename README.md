@@ -658,8 +658,6 @@ with tf.Graph().as_default():
 ![png](images/output_25_153.png)
 
 
-    Epoch 10/10... Discriminator Loss: 1.1890... Generator Loss: 0.7304
-
 
 ### Submitting This Project
 When submitting this project, make sure to run all the cells before saving the notebook. Save the notebook file as "dlnd_face_generation.ipynb" and save it as a HTML file under "File" -> "Download as". Include the "helper.py" and "problem_unittests.py" files in your submission.
