@@ -492,7 +492,7 @@ with tf.Graph().as_default():
     Epoch 1/10... Discriminator Loss: 0.1982... Generator Loss: 4.1654
 
 
-![png](images/output_23_21.png)
+![png](images/output_23_325.png)
 
 
     Epoch 3/10... Discriminator Loss: 0.7247... Generator Loss: 1.0091
@@ -508,7 +508,7 @@ with tf.Graph().as_default():
 
 
 
-![png](images/output_23_63.png)
+![png](images/output_23_349.png)
 
 
     Epoch 7/10... Discriminator Loss: 1.8229... Generator Loss: 0.3193
@@ -524,7 +524,7 @@ with tf.Graph().as_default():
 
 
 
-![png](images/output_23_77.png)
+![png](images/output_23_369.png)
 
 
     Epoch 9/10... Discriminator Loss: 0.5109... Generator Loss: 1.2865
@@ -540,7 +540,7 @@ with tf.Graph().as_default():
 
 
 
-![png](images/output_23_91.png)
+![png](images/output_23_371.png)
 
 
     Epoch 10/10... Discriminator Loss: 1.2031... Generator Loss: 4.3281
@@ -587,7 +587,7 @@ with tf.Graph().as_default():
 
 
 
-![png](images/output_25_1.png)
+![png](images/output_25_1127.png)
 
 
  
@@ -604,7 +604,7 @@ with tf.Graph().as_default():
 
 
 
-![png](images/output_25_65.png)
+![png](images/output_25_1167.png)
 
 
 
@@ -621,7 +621,7 @@ with tf.Graph().as_default():
 
 
 
-![png](images/output_25_115.png)
+![png](images/output_25_1181.png)
 
 
 
@@ -639,7 +639,7 @@ with tf.Graph().as_default():
 
 
 
-![png](images/output_25_135.png)
+![png](images/output_25_1203.png)
 
 
     Epoch 10/10... Discriminator Loss: 1.1664... Generator Loss: 0.7682
@@ -655,10 +655,8 @@ with tf.Graph().as_default():
 
 
 
-![png](images/output_25_153.png)
+![png](images/output_25_1249.png)
 
-
-    Epoch 10/10... Discriminator Loss: 1.1890... Generator Loss: 0.7304
 
 
 ### Submitting This Project
